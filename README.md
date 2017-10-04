@@ -1,8 +1,3 @@
-# Movie Trailer Website
-
-This is part of Udacity's Full Stack Developer Nanodegree.
-My solution to the website. 
-
 # Instrucitons to Run Project
 
 To generate the HTML page for this site, take the following steps:
